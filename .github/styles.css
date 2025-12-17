@@ -1,0 +1,38 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color:#fdfdcb; 
+    flex-direction: column;
+    justify-content: space-evenly;
+    align-items: center;
+    size: 100%;
+    color:#f4aeba;;
+
+}
+    
+
+
+
+h1{
+color: #c54c82;
+size:200%
+}
+
+h2{ 
+    text-align: left;
+    color:  #c54c82;
+ size:150%
+    
+}
+
+main{
+    background-color: #ec729c; 
+    width: 80%;
+    padding: 1.5em
+}
+
+footer{
+    align-items: center;
+    size: 110%;
+    Color: Snow, #fffafa
+}
+    
